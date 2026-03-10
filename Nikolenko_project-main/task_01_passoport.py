@@ -20,4 +20,4 @@ print(f"Год постройки: {construction_year}")
 
 #пос. Янино-1 , Голландская улица
 #Проектирую данный дом на работе
-#d ghgjjjthj
+#d ghgjjjthjguihu
